@@ -10,7 +10,6 @@ body{
   color:#000;
 }
 
-/* NAVBAR */
 .navbar{
   display:flex;
   align-items:center;
@@ -21,7 +20,7 @@ body{
   margin-left:250px;
 }
 .btn-wrap{
-  margin-left:50px;   /* 👈 yahin se adjust karo */
+  margin-left:50px;   
 }
 
 .navbar nav a{
@@ -40,7 +39,6 @@ body{
   font-size: 16px;
 }
 
-/* HERO */
 .hero{
   display:grid;
   grid-template-columns:1fr 1fr;
