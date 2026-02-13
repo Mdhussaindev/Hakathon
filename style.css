@@ -122,6 +122,7 @@ body{
   min-height:240px;
   width: 100%;
   gap: 20px;
+  box-shadow: 0 3px 0;
 }
 
 .card-content{
@@ -206,6 +207,7 @@ body{
   padding:30px;
   margin-bottom:20px;
   background:#f3f3f3;
+  box-shadow: 0 3px 0;
 }
 
 .process-item.active{
