@@ -271,7 +271,6 @@ body{
   padding-top: 10px;
 }
 
-/* hide content by default */
 .process-item:not(.active) .process-content{
   display:none;
 }
@@ -310,12 +309,10 @@ body{
   font-size:14px;
 }
 
-/* hide default radio */
 .radio-group input{
   display:none;
 }
 
-/* custom radio */
 .custom-radio{
   width:18px;
   height:18px;
