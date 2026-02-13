@@ -70,13 +70,11 @@ body{
   cursor:pointer;
 }
 
-/* IMAGE */
 .hero-right img{
   width:100%;
   max-width:500px;
 }
 
-/* BRANDS */
 .brands{
   display:flex;
   justify-content:space-around;
@@ -358,13 +356,13 @@ body{
 }
 
 .send-btn{
-  width:100%;              /* full width */
-  padding:18px 0;          /* zyada height */
+  width:100%;              
+  padding:18px 0;         
   background:#111;
   color:#fff;
   border:none;
-  border-radius:14px;      /* thora zyada round */
-  font-size:16px;          /* text thora bara */
+  border-radius:14px;      
+  font-size:16px;         
   font-weight:600;
   cursor:pointer;
 }
@@ -395,7 +393,7 @@ body{
 }
 
 .footer-logo{
-  width:140px;   /* figma jaisa size */
+  width:140px;  
   margin-bottom:20px;
 }
  .footer-left{
@@ -520,7 +518,6 @@ body{
   position:relative;
 }
  
-/* HAMBURGER MOBILE */
 .menu-toggle{
   display:none;
   flex-direction:column;
