@@ -377,6 +377,7 @@ body{
 .contact-img img{
   width:100%;
   max-width:420px;
+  margin: 50px;
 }
 
 .footer{
